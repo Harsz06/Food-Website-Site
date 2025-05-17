@@ -1,4 +1,4 @@
-![fo3](https://github.com/user-attachments/assets/c01bf64c-2732-4ffb-ba77-e91a0588d6fd)![fo3](https://github.com/user-attachments/assets/4eba0ac9-8a42-4c12-b28f-f14ea2bbb6e2)# Food-Website-Site
+# Food-Website-Site
 Food Website Project
 I created a Food Website project using HTML, CSS, and the Bootstrap framework, designed to showcase a modern, responsive platform for food-related services. This project includes:
 
